@@ -12,4 +12,4 @@ Jeff Bezos wrote the following memo to his employees around 2002. It got known a
 
 5. All service interfaces, without exception, must be designed from the ground up to be externalizable. That is to say, the team must plan and design to be able to expose the interface to developers in the outside world. No exceptions.
 
-6. nyone who doesn’t do this **will be fired**.
+6. Anyone who doesn’t do this **will be fired**.
