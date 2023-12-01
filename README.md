@@ -5,6 +5,7 @@ This repository serves as a centralized resource for all things related to Data 
 ## 📚 Books 
 
 - [Fundamentals of Data Engineering](./books/fundamentals_of_data_engineering.md) (O'Reilly, 2022)
+- [Designing Data-Intensive Application](./books/designing_data_intensive_application.md) (O'Reilly, 2022)
 - [The Data Warehouse Toolkit](./books/the_data_warehouse_toolkit.md) (Wiley, 2013)
 
 ## 📝 Notes 
