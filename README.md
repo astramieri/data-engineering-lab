@@ -11,3 +11,7 @@ This repository serves as a centralized resource for all things related to Data 
 ## 📝 Notes 
 
 - [Amazon API Mandate](./notes/amazon_api_mandate.md) (Bezos, 2002)
+
+## 🎬 Youtube Channels
+
+- [Seattle Data Guys](https://www.youtube.com/@SeattleDataGuy) by Ben Rogojan
