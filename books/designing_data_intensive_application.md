@@ -5,6 +5,6 @@
 - Author: Martin Kleppmann
 - Edition: O'Reilly 2017
 
-## Notes
+
 
 

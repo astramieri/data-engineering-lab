@@ -5,5 +5,5 @@
 - Author: Joes Reis and Matt Housley
 - Edition: O'Reilly 2022
 
-## Notes
+
 
