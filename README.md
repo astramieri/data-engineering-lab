@@ -11,6 +11,7 @@ This repository serves as a centralized resource for all things related to Data 
 ## 📝 Notes 
 
 - [Amazon API Mandate](./notes/amazon_api_mandate.md) (Bezos, 2002)
+- [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) (AWS, 2023)
 
 ## 🎬 Youtube Channels
 
