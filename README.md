@@ -8,6 +8,7 @@ This repository serves as a centralized resource for all things related to Data 
 - [Designing Data-Intensive Application](./books/designing_data_intensive_application.md) (O'Reilly, 2022)
 - [The Data Warehouse Toolkit](./books/the_data_warehouse_toolkit.md) (Wiley, 2013)
 - [Data Pipelines Pocket Reference](./books/data_pipeline_pocket_reference.md) (O'Reilly, 2021)
+- [97 Things Every Data Engineer Should Know](./books/97_things_every_data_engineer_should_know.md) (O'Reilly, 2021)
 
 ## 📝 Notes 
 
