@@ -11,4 +11,4 @@
 
 [Page 2] Data pipelines are sets of processes that move and transform
 data from various sources to a destination where new value can be derived. They are the foundation of analytics, reporting, and
-machine learning capabilities.
+machine learning capabilities. [...] Data engineers specialize in building and maintaining the data pipelines that underpin the analytics ecosystem.
