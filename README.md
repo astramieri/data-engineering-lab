@@ -17,7 +17,7 @@ This repository serves as a centralized resource for all things related to Data 
 
 ## 🎲 Challenges
 
-- [100 Days Of Data Engineering](https://docs.google.com/spreadsheets/d/1a5TMdF7Vz-YdvlHXnNHLMeHk7lV-TdRjbPoxMrQ_cSE) (Ben Rogojan, 2024)
+- [100 Days Of Data Engineering](https://docs.google.com/spreadsheets/d/1a5TMdF7Vz-YdvlHXnNHLMeHk7lV-TdRjbPoxMrQ_cSE) by Ben Rogojan
 
 ## 🎬 Youtube Channels
 
