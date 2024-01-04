@@ -15,6 +15,10 @@ This repository serves as a centralized resource for all things related to Data 
 - [Amazon API Mandate](./notes/amazon_api_mandate.md) (Bezos, 2002)
 - [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) (AWS, 2023)
 
+## 🎲 Challenges
+
+- [100 Days Of Data Engineering](https://docs.google.com/spreadsheets/d/1a5TMdF7Vz-YdvlHXnNHLMeHk7lV-TdRjbPoxMrQ_cSE) (Ben Rogojan, 2024)
+
 ## 🎬 Youtube Channels
 
 - [Seattle Data Guys](https://www.youtube.com/@SeattleDataGuy) by Ben Rogojan
