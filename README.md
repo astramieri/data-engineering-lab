@@ -14,6 +14,7 @@ This repository serves as a centralized resource for all things related to Data 
 
 - [Amazon API Mandate](./notes/amazon_api_mandate.md) (Bezos, 2002)
 - [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) (AWS, 2023)
+- [AWS Designing and implementing modern data-centric architecture use cases](https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/modern-data-centric-use-cases/modern-data-centric-use-cases.pdf) (AWS, 2024)
 
 ## 🎲 Challenges
 
