@@ -23,3 +23,4 @@ This repository serves as a centralized resource for all things related to Data 
 ## 🎬 Youtube Channels
 
 - [Seattle Data Guys](https://www.youtube.com/@SeattleDataGuy) by Ben Rogojan
+- [Data with Zach](https://www.youtube.com/c/datawithzach) by Zach Wilson
